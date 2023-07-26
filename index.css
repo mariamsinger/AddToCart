@@ -10,7 +10,6 @@ html, body {
 .container {
     display: flex;
     flex-direction: column;
-    align-self: center;
     max-width: 320px;
     margin: 30px auto;
 }
